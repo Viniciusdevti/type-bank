@@ -1,0 +1,23 @@
+{
+    "name": "type-bank",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "compile": "tcs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Viniciusdevti/type-bank.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Viniciusdevti/type-bank/issues"
+    },
+    "homepage": "https://github.com/Viniciusdevti/type-bank#readme",
+    "devDependencies": {
+        "typescript": "^2.3.2"
+    }
+}
